@@ -1,7 +1,7 @@
 @echo off
 
 @REM Mettez le nom de l'application pour pouvoir le retrouver dans REGEDIT plus facilement.
-SET appName=Test
+SET appName=name_app
 
 @REM Mettre le chemin absolue de l'application qui enmene a l'executable ( .exe )
 @REM Faite une recherche de l'application concerné.
